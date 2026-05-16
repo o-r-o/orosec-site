@@ -1,0 +1,5 @@
+Contact: mailto:security@orosec.io
+Expires: 2027-11-17T00:00:00.000Z
+Encryption: https://orosec.io/pgp-key.txt
+Canonical: https://orosec.io/.well-known/security.txt
+Preferred-Languages: en
